@@ -5,4 +5,4 @@ A responsive web-application that consists
 3. MySQL for Database related operation like store and retreive.
 4. Session management concept.
 5. Closing and Sweet Alert.
-6. Login and Logut safety locks.
+6. Login and Logout safety locks.
